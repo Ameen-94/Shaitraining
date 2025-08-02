@@ -1,4 +1,4 @@
-# SHAI Data science training 
+# SHAI Data Science training 
 <mark>Share Artificial Intelligence</mark> is a Saudi AI-tech leader, excels in customizing AI for the MENA region.
 This repo tracks my learning journey and projects during the Data Science training program
 ## Training Outline
