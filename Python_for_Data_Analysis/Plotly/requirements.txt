@@ -1,0 +1,5 @@
+ipykernel
+plotly
+pandas
+numpy
+nbformat
